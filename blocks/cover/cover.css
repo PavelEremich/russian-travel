@@ -5,17 +5,17 @@
   position: relative;
 }
 @media screen and (max-width: 1024px) {
-  .cover{
+  .cover {
     width: 100%;
- }
+  }
 }
 @media screen and (max-width: 768px) {
-  .cover{
+  .cover {
     margin: 90px auto 0;
- }
+  }
 }
 @media screen and (max-width: 544px) {
-  .cover{
+  .cover {
     margin: 66px auto 0;
- }
+  }
 }

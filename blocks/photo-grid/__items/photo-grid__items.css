@@ -11,17 +11,17 @@
   .photo-grid__items {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 14px;
- }
+  }
 }
 @media screen and (max-width: 768px) {
   .photo-grid__items {
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     gap: 16px;
- }
+  }
 }
 @media screen and (max-width: 544px) {
   .photo-grid__items {
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
     gap: 12px;
- }
+  }
 }

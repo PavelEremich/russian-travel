@@ -2,28 +2,18 @@
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
-  color: #FFFFFF;
+  color: #ffffff;
   max-width: 720px;
   margin: 0 auto;
   margin-bottom: 32px;
   text-align: center;
 }
-@media screen and (max-width: 1024px) {
-  .lead__title{
-    width: calc(100% - 304px);
- }
-}
-@media screen and (max-width: 768px) {
-  .lead__title{
-    width: calc(100% - 48px);
- }
-}
 @media screen and (max-width: 706px) {
-  .lead__title{
-    width: calc(100% - 48px);
+  .lead__title {
+    max-width: 288px;
     font-weight: 900;
     font-size: 40px;
     line-height: 44px;
     margin-bottom: 16px;
- }
+  }
 }

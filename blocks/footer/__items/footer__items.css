@@ -1,0 +1,14 @@
+.footer__items {
+  margin: 0 18px 0 0;
+}
+.footer__items:last-child {
+  margin: 0;
+}
+@media screen and (max-width: 544px) {
+  .footer__items {
+    margin: 0 0 32px;
+  }
+  .footer__items:last-child {
+    margin: 0;
+  }
+}

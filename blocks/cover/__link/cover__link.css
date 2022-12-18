@@ -14,7 +14,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  color:#FFFFFF;
+  color: #ffffff;
 }
 .cover__link::before {
   content: " ";
@@ -24,24 +24,24 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: #2A2C2F;
+  background: #2a2c2f;
   opacity: 0.3;
 }
 .cover__link:hover::before {
   opacity: 0.8;
 }
 @media screen and (max-width: 1024px) {
-  .cover__link{
+  .cover__link {
     min-height: 640px;
- }
+  }
 }
 @media screen and (max-width: 768px) {
-  .cover__link{
+  .cover__link {
     min-height: 480px;
- }
+  }
 }
 @media screen and (max-width: 544px) {
-  .cover__link{
+  .cover__link {
     min-height: 200px;
- }
+  }
 }
