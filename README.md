@@ -11,5 +11,5 @@
 
 Удачи!
  
- Посмотреть результат можно  [тут] (http://webdesign.ru.net адрес ссылки - невидимая часть)
+ Посмотреть результат можно  [тут] (https://paveleremich.github.io/russian-travel/index.html)
  
