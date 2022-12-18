@@ -10,17 +10,17 @@
 }
 @media screen and (max-width: 1024px) {
   .lead__title{
-    width: calc(100%-304);
+    width: calc(100% - 304);
  }
 }
 @media screen and (max-width: 768px) {
   .lead__title{
-    width: calc(100%-48);
+    width: calc(100% - 48);
  }
 }
 @media screen and (max-width: 706px) {
   .lead__title{
-    width: calc(100%-48);
+    width: calc(100% - 48);
     font-weight: 900;
     font-size: 40px;
     line-height: 44px;
