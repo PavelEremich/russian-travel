@@ -6,12 +6,17 @@
   max-width: 690px;
   margin: 40px 0 0;
 }
+@media screen and (max-width: 1023px) {
+  .intro__text {
+    margin: 40px auto 0;
+  }
+}
 @media screen and (max-width: 768px) {
   .intro__text {
     max-width: 720px;
   }
 }
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 320px) {
   .intro__text {
     max-width: 288px;
   }
